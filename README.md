@@ -53,4 +53,25 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+## 🛠️ Tech Stack
 
+**Languages:**  
+Python • Java • JavaScript • SQL • HTML • CSS
+
+**Data Science & ML:**  
+NumPy • Pandas • Matplotlib • Scikit-learn • Machine Learning
+
+**Generative AI:**  
+LangChain • RAG • NLP • Semantic Search • ChromaDB • Sentence Transformers
+
+**Frontend:**  
+HTML • CSS • JavaScript • React
+
+**Backend:**  
+Node.js • Express.js • Flask
+
+**Database:**  
+MongoDB • MySQL
+
+**Tools:**  
+Git • GitHub • VS Code • Jupyter • Postman
