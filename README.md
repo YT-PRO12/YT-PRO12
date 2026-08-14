@@ -55,23 +55,47 @@
 </p>
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Python • Java • JavaScript • SQL • HTML • CSS
+### 💻 Languages
 
-**Data Science & ML:**  
-NumPy • Pandas • Matplotlib • Scikit-learn • Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
 
-**Generative AI:**  
-LangChain • RAG • NLP • Semantic Search • ChromaDB • Sentence Transformers
+### 📊 Data Science & Machine Learning
 
-**Frontend:**  
-HTML • CSS • JavaScript • React
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-**Backend:**  
-Node.js • Express.js • Flask
+### 🤖 Generative AI & NLP
 
-**Database:**  
-MongoDB • MySQL
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_Search-0066CC?style=for-the-badge&logoColor=white" />
+</p>
 
-**Tools:**  
-Git • GitHub • VS Code • Jupyter • Postman
+### 🌐 Full Stack Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter,flask" />
+</p>
