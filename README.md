@@ -38,3 +38,19 @@
 
 ### 💡 Learn • Build • Solve • Improve 🚀
 
+## 🌐 Socials
+
+<p align="left">
+  <a href="www.linkedin.com/in/yatharth-goyal-ab0a8b326">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/ZLiVS0bs2B/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="mailto:yatharthgoyal657@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
