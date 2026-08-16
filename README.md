@@ -21,7 +21,7 @@
 
 **Web:** HTML • CSS • JavaScript • React • Node.js • Express • MongoDB
 
-**Tools:** Git • GitHub • VS Code • Postman • Jupyter
+**Tools:**  • GitHub • VS Code  • Jupyter
 
 ## 🚀 Projects
 
