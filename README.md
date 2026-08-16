@@ -97,5 +97,5 @@
 ### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter,flask" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,jupyter,flask" />
 </p>
