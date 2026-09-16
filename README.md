@@ -116,16 +116,6 @@ An AI/ML project focused on predicting student performance and turning academic 
 
 ---
 
-### 🛡️ RouteGuard
-
-**Predictive Road Accident Risk & Safe Route Planner**
-
-An intelligent transportation project combining accident-risk prediction, route planning and AI-assisted information retrieval.
-
-**Focus:** Machine Learning • RAG • Full Stack
-
----
-
 ### 🤖 IT Customer Support Assistant
 
 **RAG-Based Technical Support Agent**
@@ -216,18 +206,65 @@ My goal is to make meaningful progress regularly rather than simply chase a cont
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="165"/>
-</p>
+> Tracking my progress through **coding, problem solving, projects, and consistent learning.**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
-</p>
+### 🔥 Coding Consistency
 
-> Replace `YOUR_USERNAME` with your actual GitHub username.
+I use GitHub to document my development journey — from DSA practice and project development to experimenting with new technologies.
+
+**Learn → Build → Solve → Commit → Improve**
 
 ---
+
+### 📊 Contribution Activity
+
+- 💻 **DSA:** Regular Java problem solving
+- 🚀 **Projects:** Building and improving practical applications
+- 🤖 **AI/ML:** Experimenting with ML, NLP, RAG & Generative AI
+- 🌐 **Full Stack:** Developing React and backend projects
+- 📚 **Learning:** Committing code as I learn and build
+
+> **Small commits every day can turn into big progress over time.**
+
+---
+
+### 🔥 How GitHub Streak Works
+
+Your **current streak** increases when you have qualifying GitHub contributions on **consecutive days**.
+
+For example:
+
+```text
+Day 1  →  Contribution ✅
+Day 2  →  Contribution ✅
+Day 3  →  Contribution ✅
+Day 4  →  Contribution ✅
+
+🔥 Current Streak = 4 days
+```
+
+If you make **no qualifying contribution on the next day**, the current streak can reset.
+
+### 💡 What Can Count?
+
+Depending on GitHub's contribution rules, activities such as:
+
+- 📝 Commits
+- 🔀 Pull Requests
+- 💬 Issues
+- 👀 Pull Request Reviews
+
+can appear in your contribution graph when they meet GitHub's requirements.
+
+**Tip:** Don't make meaningless commits just to maintain a streak. Use GitHub to record genuine progress.
+
+---
+
+### 🎯 My Goal
+
+**Build consistently. Learn deeply. Commit meaningful work.**
+
+> *Consistency is not about coding every day — it's about continuing to move forward.*
 
 ## 🌐 Connect With Me
 
