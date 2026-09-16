@@ -1,58 +1,49 @@
 # 👋 Hi, I'm Yatharth Goyal
 
-### 🤖 Data Science & ML | 🚀 Full Stack Development | 🧠 DSA in Java | ✨ Generative AI
+### 🤖 Data Science & ML | 🚀 Full Stack Development | 🧠 Java DSA | ✨ Generative AI
 
-## 🚀 About Me
+I’m a **B.Tech IT student** interested in building practical software and AI/ML applications while strengthening my problem-solving and computer science fundamentals.
 
-🎓 B.Tech IT Student passionate about **Data Science, Machine Learning & AI**.
-
-* 🤖 Building **ML & Generative AI** projects
-* 📊 Learning **Data Science & Data Analysis**
-* 🌐 Exploring **Full Stack Development**
-* 🧠 Practicing **DSA in Java**
-* ✨ Exploring **NLP & RAG**
-* 🎯 Aspiring **Data Scientist / ML Engineer**
-
-## 🛠️ Skills
-
-**Languages:** Python • Java • JavaScript • SQL
-
-**AI/ML:** NumPy • Pandas • Matplotlib • Scikit-learn • NLP • Generative AI • RAG
-
-**Web:** HTML • CSS • JavaScript • React • Node.js • Express • MongoDB
-
-**Tools:**  • GitHub • VS Code  • Jupyter
-
-## 🚀 Projects
-
-* 🤖 **AI Customer Support Assistant**
-* 📊 **Machine Learning & Data Science Projects**
-* 🌐 **Full Stack Web Projects**
-* 🧠 **DSA in Java**
-
-## 🎯 Currently Learning
-
-**Advanced ML • Generative AI • Full Stack • DSA • System Design**
+I learn by **building projects, solving problems, and understanding the concepts behind the code.**
 
 ---
 
-### 💡 Learn • Build • Solve • Improve 🚀
+## 🚀 About Me
 
-## 🌐 Socials
+* 🎓 B.Tech IT student
+* 🤖 Building projects in **Machine Learning & Generative AI**
+* 📊 Exploring **Data Science & Data Analysis**
+* 🌐 Learning **Full Stack Development**
+* 🧠 Practicing **Data Structures & Algorithms in Java**
+* ✨ Exploring **NLP, RAG & Semantic Search**
+* ☁️ Exploring **Cloud & AWS**
+* 🎯 Working toward opportunities in **Data Science / ML Engineering / Software Development**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yatharth-goyal-ab0a8b326/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+---
 
-  <a href="https://leetcode.com/u/ZLiVS0bs2B/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+## 🧭 My Developer Journey
 
-  <a href="mailto:yatharthgoyal657@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+```text
+Python & Programming
+        ↓
+Data Analysis
+        ↓
+Machine Learning
+        ↓
+Generative AI & RAG
+        ↓
+Java + DSA
+        ↓
+React + Full Stack
+        ↓
+Cloud & System Design
+        ↓
+Production-Level Projects
+```
+
+My focus is gradually moving from learning individual technologies to **building complete, useful systems**.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -98,5 +89,166 @@
 ### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,jupyter,flask" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,jupyter,flask,git" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 CareFlow AI
+
+**Intelligent Emergency Department Platform**
+
+A full-stack healthcare workflow platform designed around emergency department operations such as patient queues, bed management, doctor assignment and treatment workflows.
+
+**Focus:** Full Stack • Healthcare Workflow • AI/ML
+
+---
+
+### 🎓 EduPredict AI
+
+**Student Performance Prediction Platform**
+
+An AI/ML project focused on predicting student performance and turning academic data into useful insights.
+
+**Focus:** Machine Learning • Data Science • React
+
+---
+
+### 🛡️ RouteGuard
+
+**Predictive Road Accident Risk & Safe Route Planner**
+
+An intelligent transportation project combining accident-risk prediction, route planning and AI-assisted information retrieval.
+
+**Focus:** Machine Learning • RAG • Full Stack
+
+---
+
+### 🤖 IT Customer Support Assistant
+
+**RAG-Based Technical Support Agent**
+
+A retrieval-augmented support system designed to search technical documentation and provide relevant answers to user queries.
+
+**Focus:** Python • RAG • Semantic Search • Vector Database
+
+---
+
+## 🧠 DSA & Problem Solving
+
+Currently practicing **Data Structures & Algorithms in Java**.
+
+### Areas I'm working on
+
+```text
+Arrays
+Strings
+Hashing
+Two Pointers
+Sliding Window
+Linked Lists
+Stacks & Queues
+Binary Search
+Trees
+Graphs
+Dynamic Programming
+```
+
+My focus isn't only on solving problems — I'm trying to understand **why a particular pattern works and when to apply it.**
+
+---
+
+## 📚 Currently Learning
+
+| Area              | Focus                                                  |
+| ----------------- | ------------------------------------------------------ |
+| 🧠 DSA            | Java, problem-solving patterns & interview preparation |
+| 🤖 AI / ML        | Machine Learning, NLP, Generative AI & RAG             |
+| 🌐 Full Stack     | React, Node.js, Express, MongoDB & APIs                |
+| ☁️ Cloud          | AWS & cloud fundamentals                               |
+| 🏗️ System Design | Scalable application fundamentals                      |
+
+---
+
+## 🔥 Consistency
+
+I use GitHub as a record of my **learning, coding and project-building journey**.
+
+```text
+Learn → Build → Solve → Understand → Improve
+```
+
+> **Consistency > Motivation**
+
+My goal is to make meaningful progress regularly rather than simply chase a contribution streak.
+
+---
+
+## 🏆 Milestones
+
+### 2026
+
+* ✅ Started focused Java DSA preparation
+* ✅ Built AI/ML projects
+* ✅ Started Full Stack Development
+* 🔄 Building CareFlow AI
+* 🔄 Exploring Generative AI & RAG
+* 🔄 Preparing for software / ML internships
+* 🔄 Working toward open-source contributions
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Solve **300+ DSA problems**
+* [ ] Strengthen Java & core CS fundamentals
+* [ ] Build production-level full-stack applications
+* [ ] Build practical AI/ML applications
+* [ ] Improve Generative AI & RAG skills
+* [ ] Learn AWS fundamentals
+* [ ] Improve System Design knowledge
+* [ ] Make meaningful open-source contributions
+* [ ] Secure a strong software / ML internship
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
+</p>
+
+> Replace `YOUR_USERNAME` with your actual GitHub username.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yatharth-goyal-ab0a8b326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/ZLiVS0bs2B/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="mailto:yatharthgoyal657@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💡 Learn • Build • Solve • Improve
+
+<p align="center">
+  <i>Building skills one project and one problem at a time.</i>
 </p>
