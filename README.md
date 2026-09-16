@@ -206,30 +206,25 @@ My goal is to make meaningful progress regularly rather than simply chase a cont
 
 ## 📈 GitHub Activity
 
-> Tracking my progress through **coding, problem solving, projects, and consistent learning.**
-
-### 🔥 Coding Consistency
-
-I use GitHub to document my development journey — from DSA practice and project development to experimenting with new technologies.
-
-**Learn → Build → Solve → Commit → Improve**
-
----
-## 📈 GitHub Activity
-
 <p align="center">
-  <b>My coding journey, one contribution at a time.</b>
+  <strong>Building consistently. Learning continuously. 🚀</strong><br>
+  <sub>A snapshot of my coding activity and contribution journey.</sub>
 </p>
+
+<br>
 
 <table align="center">
 <tr>
+
 <td align="center" width="33%">
 
 ### 📊
-## Total Contributions
 
-**1**
+<h2>1</h2>
 
+<strong>Total Contributions</strong>
+
+<br>
 <sub>Since Jun 3, 2011</sub>
 
 </td>
@@ -237,10 +232,12 @@ I use GitHub to document my development journey — from DSA practice and projec
 <td align="center" width="33%">
 
 ### 🔥
-## Current Streak
 
-**0 days**
+<h2>0 Days</h2>
 
+<strong>Current Streak</strong>
+
+<br>
 <sub>Sep 16, 2026</sub>
 
 </td>
@@ -248,38 +245,39 @@ I use GitHub to document my development journey — from DSA practice and projec
 <td align="center" width="33%">
 
 ### 🏆
-## Longest Streak
 
-**1 day**
+<h2>1 Day</h2>
 
-<sub>Personal best</sub>
+<strong>Longest Streak</strong>
+
+<br>
+<sub>Personal Best</sub>
 
 </td>
+
 </tr>
 </table>
 
 <br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### 🔥 How to Increase Your Current Streak?
-
-Make at least **one qualifying GitHub contribution every day**.
-
-**1 day of contribution = 1 day added to your streak**
-
-<br>
-
-`Commit` → `Push` → `Contribute` → `Repeat`
-
-</td>
-</tr>
-</table>
 
 <p align="center">
-  <i>Keep coding. Keep building. Keep improving. 🚀</i>
+
+🔥 <strong>Current Streak</strong><br>
+
+<sub>
+Keep making meaningful contributions on consecutive days to grow your streak.
+</sub>
+
+<br><br>
+
+<strong>Commit → Push → Contribute → Repeat</strong>
+
+</p>
+
+<br>
+
+<p align="center">
+  <sub>💡 I focus on meaningful contributions rather than simply chasing a streak.</sub>
 </p>
 
 ## 🌐 Connect With Me
