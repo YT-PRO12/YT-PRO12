@@ -215,56 +215,72 @@ I use GitHub to document my development journey — from DSA practice and projec
 **Learn → Build → Solve → Commit → Improve**
 
 ---
+## 📈 GitHub Activity
 
-### 📊 Contribution Activity
+<p align="center">
+  <b>My coding journey, one contribution at a time.</b>
+</p>
 
-- 💻 **DSA:** Regular Java problem solving
-- 🚀 **Projects:** Building and improving practical applications
-- 🤖 **AI/ML:** Experimenting with ML, NLP, RAG & Generative AI
-- 🌐 **Full Stack:** Developing React and backend projects
-- 📚 **Learning:** Committing code as I learn and build
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-> **Small commits every day can turn into big progress over time.**
+### 📊
+## Total Contributions
 
----
+**1**
 
-### 🔥 How GitHub Streak Works
+<sub>Since Jun 3, 2011</sub>
 
-Your **current streak** increases when you have qualifying GitHub contributions on **consecutive days**.
+</td>
 
-For example:
+<td align="center" width="33%">
 
-```text
-Day 1  →  Contribution ✅
-Day 2  →  Contribution ✅
-Day 3  →  Contribution ✅
-Day 4  →  Contribution ✅
+### 🔥
+## Current Streak
 
-🔥 Current Streak = 4 days
-```
+**0 days**
 
-If you make **no qualifying contribution on the next day**, the current streak can reset.
+<sub>Sep 16, 2026</sub>
 
-### 💡 What Can Count?
+</td>
 
-Depending on GitHub's contribution rules, activities such as:
+<td align="center" width="33%">
 
-- 📝 Commits
-- 🔀 Pull Requests
-- 💬 Issues
-- 👀 Pull Request Reviews
+### 🏆
+## Longest Streak
 
-can appear in your contribution graph when they meet GitHub's requirements.
+**1 day**
 
-**Tip:** Don't make meaningless commits just to maintain a streak. Use GitHub to record genuine progress.
+<sub>Personal best</sub>
 
----
+</td>
+</tr>
+</table>
 
-### 🎯 My Goal
+<br>
 
-**Build consistently. Learn deeply. Commit meaningful work.**
+<table align="center">
+<tr>
+<td align="center">
 
-> *Consistency is not about coding every day — it's about continuing to move forward.*
+### 🔥 How to Increase Your Current Streak?
+
+Make at least **one qualifying GitHub contribution every day**.
+
+**1 day of contribution = 1 day added to your streak**
+
+<br>
+
+`Commit` → `Push` → `Contribute` → `Repeat`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>Keep coding. Keep building. Keep improving. 🚀</i>
+</p>
 
 ## 🌐 Connect With Me
 
