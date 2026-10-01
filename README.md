@@ -287,7 +287,7 @@ Keep making meaningful contributions on consecutive days to grow your streak.
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/u/ZLiVS0bs2B/">
+  <a href="https://leetcode.com/u/yatharth_goyal/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
