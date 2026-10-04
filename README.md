@@ -146,40 +146,17 @@ My current focus is moving beyond isolated technologies toward understanding how
 ### Intelligent Emergency Operations & Decision-Support Platform
 
 A full-stack emergency department operations platform designed around realistic
-hospital workflows including patient management, doctor assignment, bed allocation,
-treatment progression and emergency case handling.
-
-**Core Workflow**
-
-```text
-Patient Registration
-        ↓
-Emergency Queue
-        ↓
-Doctor Assignment
-        ↓
-Bed Assignment
-        ↓
-Treatment
-        ↓
-Completion
-        ↓
-Discharge
-```
+hospital workflows including patient management, emergency queues, doctor assignment,
+bed allocation, treatment progression and discharge workflows.
 
 **Technology**
 
 `React` • `Node.js` • `Express.js` • `PostgreSQL` • `REST APIs`
 
-**Engineering Areas**
+**Engineering Focus**
 
-- Full-stack architecture
-- Relational database design
-- REST API development
-- Transaction-based workflows
-- Frontend state management
-- Git branching and pull-request workflows
-- Production-oriented debugging
+`Full Stack Development` • `Database Design` • `Backend Architecture` •
+`API Integration` • `Software Engineering`
 
 ---
 
@@ -187,39 +164,36 @@ Discharge
 
 ### Student Performance Prediction Platform
 
-A machine-learning application designed to analyze academic information and
-generate student-performance predictions through an interactive web interface.
+A machine-learning application designed to analyze academic data and generate
+student-performance predictions through an interactive web application.
 
 **Technology**
 
-`Python` • `Machine Learning` • `Data Analysis` • `Frontend Integration`
+`Python` • `Machine Learning` • `Data Science` • `React`
 
 🌐 **Live Application:**  
 https://edu-predict-ai-yat7.vercel.app/
 
----
+**Focus**
 
-## 🤖 RAG IT Support Agent
-
-### Retrieval-Augmented Technical Support System
-
-A document-based support assistant that retrieves relevant information from
-technical documentation before generating responses to user queries.
-
-**Technology**
-
-`Python` • `LangChain` • `ChromaDB` • `RAG` • `Semantic Search`
-
-**Concepts**
-
-- Document ingestion
-- Chunking
-- Embeddings
-- Vector retrieval
-- Context-aware answering
-- Technical knowledge bases
+`Machine Learning` • `Data Analysis` • `Prediction Systems` • `Web Integration`
 
 ---
+
+## ⚙️ EvalForge
+
+### Assessment Intelligence & Optimization Platform
+
+A software platform focused on building structured, reliable and scalable
+assessment workflows with emphasis on engineering quality, evaluation logic
+and production-oriented system design.
+
+**Engineering Focus**
+
+`Full Stack Engineering` • `System Design` • `Assessment Systems` •
+`Backend Architecture` • `Software Quality`
+
+> Currently under active development.
 
 # 🧠 Data Structures & Algorithms
 
