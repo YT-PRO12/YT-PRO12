@@ -365,9 +365,6 @@ Development activity across software projects, DSA practice and engineering work
 
 </div>
 
-> **Note:** I intentionally don't use an automatic “Most Used Languages” card here.
-> Repository size does not represent language proficiency or primary engineering focus.
-
 ---
 
 # 🔥 GitHub Contribution Streak
@@ -385,35 +382,181 @@ Development activity across software projects, DSA practice and engineering work
 
 <br><br>
 
-**Commit → Build → Learn → Improve → Repeat**
+### Commit → Build → Learn → Improve → Repeat
 
 <br>
 
 🎯 **Current Goal: 90 Consecutive Days**
 
-<br>
+</div>
 
-<sub>
-The streak card updates dynamically from qualifying GitHub contribution activity.
-</sub>
+---
+
+# 💻 Primary Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python,css,html" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### ☕ Java
+
+**Primary**
+
+DSA • OOP  
+Software Development
+
+</td>
+
+<td align="center" width="20%">
+
+### 🟨 JavaScript
+
+**Full Stack**
+
+React • Node.js  
+Express.js
+
+</td>
+
+<td align="center" width="20%">
+
+### 🐍 Python
+
+**AI / ML**
+
+Data Science  
+Machine Learning
+
+</td>
+
+<td align="center" width="20%">
+
+### 🎨 CSS
+
+**Frontend**
+
+Responsive UI  
+Tailwind CSS
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌐 HTML
+
+**Web**
+
+Structure  
+Semantic Markup
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 📊 Contribution Activity
+# 🧑‍💻 Language Focus
+
+```text
+Java        ████████████████████  Primary
+JavaScript  ███████████████       Full Stack
+Python      ██████████            ML / Data Science
+CSS         ███████               Frontend
+HTML        ██████                Web Development
+```
+
+<div align="center">
+
+**Java first for DSA & software development • JavaScript for full stack • Python for ML**
+
+</div>
+
+---
+
+# ✍️ Random Dev Quote
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YT-PRO12&theme=github-compact&hide_border=true"
-  width="100%"
-  alt="Yatharth Goyal GitHub Contribution Activity"
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+  alt="Random Developer Quote"
 />
 
 </div>
 
 ---
+
+# 🏆 Progress & Milestones
+
+### 2026
+
+- ✅ Built Data Science and Machine Learning applications
+- ✅ Started structured **Java DSA interview preparation**
+- ✅ Expanded into **React and Full Stack Development**
+- ✅ Built REST APIs using **Node.js and Express**
+- ✅ Started building production-oriented applications with **PostgreSQL**
+- ✅ Practiced professional **Git branching and pull-request workflows**
+- ✅ Built and deployed full-stack applications
+- ✅ Developed **AegisED** as a major full-stack software project
+- 🔄 Building **EvalForge**
+- 🔄 Strengthening Java and core Computer Science fundamentals
+- 🔄 Learning System Design and Cloud Computing
+- 🔄 Preparing for Software Engineering internships
+
+---
+
+# 🎯 Goals
+
+- [ ] Solve **300+ quality DSA problems**
+- [ ] Build a **90-day genuine GitHub contribution streak**
+- [ ] Strengthen Java and Object-Oriented Programming
+- [ ] Master common DSA interview patterns
+- [ ] Strengthen core Computer Science fundamentals
+- [ ] Build production-quality full-stack applications
+- [ ] Strengthen PostgreSQL and database design
+- [ ] Build intelligent ML-integrated software systems
+- [ ] Learn AWS and cloud fundamentals
+- [ ] Strengthen System Design fundamentals
+- [ ] Make meaningful open-source contributions
+- [ ] Secure a strong Software Engineering / ML internship
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yatharth-goyal-ab0a8b326/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yatharth%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/yatharth_goyal/">
+  <img src="https://img.shields.io/badge/LeetCode-yatharth__goyal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:yatharthgoyal657@gmail.com">
+  <img src="https://img.shields.io/badge/Email-yatharthgoyal657%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Learn • Build • Solve • Improve 🚀
+
+<i>Building stronger engineering skills one project, one problem and one commit at a time.</i>
+
+</div>
 
 # 🏆 Progress & Milestones
 
