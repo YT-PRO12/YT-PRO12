@@ -5,7 +5,7 @@
 ### ☕ Java Developer • 🚀 Full Stack Development • 🧠 DSA • 🤖 Machine Learning
 
 B.Tech Information Technology student focused on building practical software systems,
-solving algorithmic problems, and developing intelligent applications.
+strengthening problem-solving skills, and developing production-oriented applications.
 
 <br>
 
@@ -36,9 +36,9 @@ solving algorithmic problems, and developing intelligent applications.
 - ☁️ Exploring **AWS, Cloud Computing and System Design**
 - 🎯 Preparing for **Software Engineering and ML-oriented internship opportunities**
 
-I learn best by combining:
+I learn best through:
 
-**Concepts → Implementation → Debugging → Projects → Problem Solving**
+**Understand → Build → Debug → Improve → Repeat**
 
 ---
 
@@ -68,18 +68,18 @@ Cloud + System Design
 Production-Oriented Software
 ```
 
-My focus is moving beyond learning individual technologies toward understanding how
-**frontend, backend, databases, algorithms and intelligent systems work together.**
+My focus is gradually moving from learning individual technologies toward understanding
+how **frontend, backend, databases, algorithms and intelligent systems work together.**
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Primary Languages
+## 💻 Core Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,python" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,css,html" />
 
 </div>
 
@@ -87,11 +87,11 @@ My focus is moving beyond learning individual technologies toward understanding 
 
 | Language | Primary Use |
 |---|---|
-| ☕ **Java** | DSA, problem solving, OOP and software development |
+| ☕ **Java** | DSA, OOP, problem solving and software development |
 | 🟨 **JavaScript** | React, Node.js, Express and full-stack applications |
-| 🌐 **HTML** | Web structure and frontend development |
-| 🎨 **CSS** | Responsive layouts, styling and user interfaces |
-| 🐍 **Python** | Machine Learning, Data Science and intelligent applications |
+| 🐍 **Python** | Machine Learning, Data Science and intelligent systems |
+| 🎨 **CSS** | Responsive interfaces, layouts and styling |
+| 🌐 **HTML** | Semantic web structure and frontend development |
 
 ---
 
@@ -111,7 +111,7 @@ My focus is moving beyond learning individual technologies toward understanding 
 
 **Concepts**
 
-`Client-Server Architecture` • `MVC` • `API Integration` • `Authentication` • `State Management`
+`Client-Server Architecture` • `MVC` • `API Integration` • `State Management`
 
 ---
 
@@ -149,7 +149,7 @@ My focus is moving beyond learning individual technologies toward understanding 
 
 ---
 
-## 🔧 Developer Tools & Platforms
+## 🔧 Developer Tools
 
 <p align="left">
 
@@ -223,13 +223,13 @@ Discharge
 ### Assessment Intelligence & Optimization Platform
 
 EvalForge is an advanced software platform focused on building structured,
-reliable and scalable assessment workflows with emphasis on evaluation,
-engineering quality and production-oriented system design.
+reliable and scalable assessment workflows with emphasis on engineering quality,
+evaluation logic and production-oriented system design.
 
 ### Engineering Focus
 
 `Full Stack Engineering` • `Backend Architecture` • `Assessment Systems` •
-`System Design` • `Software Quality`
+`System Design` • `Reliability` • `Software Quality`
 
 ### Current Status
 
@@ -267,7 +267,7 @@ generate student-performance predictions through an interactive web interface.
 
 # 🧠 Data Structures & Algorithms
 
-I practice **Data Structures & Algorithms primarily in Java** with emphasis on
+I practice **Data Structures & Algorithms primarily in Java**, with emphasis on
 understanding patterns, complexity and reusable problem-solving techniques.
 
 ### Current Roadmap
@@ -319,7 +319,7 @@ Optimize
 My goal is not simply to collect solved problems.
 
 I focus on understanding **why an approach works, when to use it, and how to
-recognize the same pattern in a different problem.**
+recognize the same pattern in another problem.**
 
 <p>
 
@@ -338,7 +338,7 @@ recognize the same pattern in a different problem.**
 | ☕ **Java** | OOP, problem solving and software fundamentals |
 | 🧠 **DSA** | Interview patterns and algorithmic problem solving |
 | 🌐 **Full Stack** | React, Node.js, Express, PostgreSQL and REST APIs |
-| 🔧 **Software Engineering** | Git, debugging, architecture and clean development workflows |
+| 🔧 **Software Engineering** | Git, debugging, architecture and clean workflows |
 | 🤖 **AI / ML** | Machine Learning and intelligent application integration |
 | 🏗️ **System Design** | APIs, databases, scalability and architecture fundamentals |
 | ☁️ **Cloud** | AWS and cloud computing fundamentals |
@@ -392,78 +392,15 @@ Development activity across software projects, DSA practice and engineering work
 
 ---
 
-# 💻 Primary Languages
+# 💻 Language Focus
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,javascript,python,css,html" />
 
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### ☕ Java
-
-**Primary**
-
-DSA • OOP  
-Software Development
-
-</td>
-
-<td align="center" width="20%">
-
-### 🟨 JavaScript
-
-**Full Stack**
-
-React • Node.js  
-Express.js
-
-</td>
-
-<td align="center" width="20%">
-
-### 🐍 Python
-
-**AI / ML**
-
-Data Science  
-Machine Learning
-
-</td>
-
-<td align="center" width="20%">
-
-### 🎨 CSS
-
-**Frontend**
-
-Responsive UI  
-Tailwind CSS
-
-</td>
-
-<td align="center" width="20%">
-
-### 🌐 HTML
-
-**Web**
-
-Structure  
-Semantic Markup
-
-</td>
-</tr>
-</table>
-
 </div>
 
----
-
-# 🧑‍💻 Language Focus
+<br>
 
 ```text
 Java        ████████████████████  Primary
@@ -475,22 +412,46 @@ HTML        ██████                Web Development
 
 <div align="center">
 
-**Java first for DSA & software development • JavaScript for full stack • Python for ML**
+**Java for software development & DSA • JavaScript for full stack • Python for ML**
 
 </div>
 
 ---
 
-# ✍️ Random Dev Quote
+# 🧑‍💻 Developer Console
 
-<div align="center">
+```bash
+yatharth@github:~$ whoami
 
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-  alt="Random Developer Quote"
-/>
+> Java Developer
+> Full Stack Developer
+> DSA Problem Solver
+> ML Enthusiast
 
-</div>
+
+yatharth@github:~$ current-focus
+
+> Building    : EvalForge
+> Improving   : AegisED
+> Practicing  : Java DSA
+> Learning    : System Design + AWS
+
+
+yatharth@github:~$ engineering-mindset
+
+> Understand the problem.
+> Build the solution.
+> Break assumptions.
+> Debug the cause.
+> Improve the design.
+> Ship something useful.
+
+
+yatharth@github:~$ status
+
+> Compiling skills...
+> ███████████████░░░░░
+```
 
 ---
 
@@ -502,7 +463,7 @@ HTML        ██████                Web Development
 - ✅ Started structured **Java DSA interview preparation**
 - ✅ Expanded into **React and Full Stack Development**
 - ✅ Built REST APIs using **Node.js and Express**
-- ✅ Started building production-oriented applications with **PostgreSQL**
+- ✅ Started building applications with **PostgreSQL**
 - ✅ Practiced professional **Git branching and pull-request workflows**
 - ✅ Built and deployed full-stack applications
 - ✅ Developed **AegisED** as a major full-stack software project
@@ -553,70 +514,6 @@ HTML        ██████                Web Development
 <div align="center">
 
 ### Learn • Build • Solve • Improve 🚀
-
-<i>Building stronger engineering skills one project, one problem and one commit at a time.</i>
-
-</div>
-
-# 🏆 Progress & Milestones
-
-### 2026
-
-- ✅ Built Data Science and Machine Learning applications
-- ✅ Started structured Java DSA interview preparation
-- ✅ Expanded into React and Full Stack Development
-- ✅ Built backend APIs using Node.js and Express
-- ✅ Started building applications with PostgreSQL
-- ✅ Learned professional Git branching and pull-request workflows
-- ✅ Built and deployed full-stack applications
-- ✅ Developed AegisED as a production-oriented software project
-- 🔄 Building EvalForge
-- 🔄 Strengthening Java and core Computer Science fundamentals
-- 🔄 Learning System Design and Cloud Computing
-- 🔄 Preparing for Software Engineering internships
-
----
-
-# 🎯 Goals
-
-- [ ] Solve **300+ quality DSA problems**
-- [ ] Build a **90-day genuine GitHub contribution streak**
-- [ ] Strengthen Java and Object-Oriented Programming
-- [ ] Master common DSA interview patterns
-- [ ] Strengthen core Computer Science fundamentals
-- [ ] Build production-quality full-stack applications
-- [ ] Strengthen PostgreSQL and database design
-- [ ] Build intelligent ML-integrated software systems
-- [ ] Learn AWS and cloud fundamentals
-- [ ] Strengthen System Design fundamentals
-- [ ] Make meaningful open-source contributions
-- [ ] Secure a strong Software Engineering / ML internship
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yatharth-goyal-ab0a8b326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yatharth%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/yatharth_goyal/">
-  <img src="https://img.shields.io/badge/LeetCode-yatharth__goyal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="mailto:yatharthgoyal657@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yatharthgoyal657%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Learn • Build • Solve • Improve
 
 <i>Building stronger engineering skills one project, one problem and one commit at a time.</i>
 
