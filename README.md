@@ -327,6 +327,10 @@ recognize the same pattern in another problem.**
   <img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
+<a href="https://github.com/YT-PRO12/DSA-Java-Interview-Prep">
+  <img src="https://img.shields.io/badge/Java%20DSA-Interview%20Prep-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
