@@ -380,7 +380,7 @@ Development activity across software projects, DSA practice and engineering work
 <br>
 
 <img
-  src="https://streak-stats.demolab.com?user=YT-PRO12&theme=github-dark-blue&hide_border=true&v=20261005-1"
+  src="https://streak-stats.demolab.com?user=YT-PRO12&theme=github-dark-blue&hide_border=true&timezone=Asia%2FKolkata"
   alt="Yatharth Goyal GitHub Streak"
 />
 
