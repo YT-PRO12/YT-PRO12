@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="240" viewBox="0 0 820 240" role="img" aria-labelledby="title desc">
+<title id="title">GitHub Contribution Streak Goal</title><desc id="desc">Road to 90 consecutive days. Check the official GitHub contribution calendar for the current streak.</desc>
+<rect width="820" height="240" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="818" height="238" rx="15" fill="none" stroke="#30363d" stroke-width="2"/>
+<circle cx="101" cy="120" r="55" fill="none" stroke="#30363d" stroke-width="12"/>
+<path d="M101 65 A55 55 0 0 1 156 120" fill="none" stroke="#238636" stroke-width="12" stroke-linecap="round"/>
+<text x="101" y="126" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700" text-anchor="middle">90</text>
+<text x="101" y="147" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle">day goal</text>
+<text x="197" y="90" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">Contribution Streak</text>
+<text x="197" y="124" fill="#58a6ff" font-family="Arial,Helvetica,sans-serif" font-size="21">Road to 90 consecutive days</text>
+<text x="197" y="160" fill="#c9d1d9" font-family="Arial,Helvetica,sans-serif" font-size="16">Current activity: see official GitHub calendar</text>
+<text x="197" y="189" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="13">Commit  ·  Build  ·  Learn  ·  Improve  ·  Repeat</text>
+</svg>
