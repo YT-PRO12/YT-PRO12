@@ -377,24 +377,13 @@ Development activity across software projects, DSA practice and engineering work
 
 ### 🎯 Road to 90 Consecutive Days
 
-<br>
+![Road to 90 consecutive days](assets/contribution-streak.svg)
 
-<img
-  src="https://streak-stats.demolab.com?user=YT-PRO12&theme=github-dark-blue&hide_border=true&timezone=Asia%2FKolkata"
-  alt="Yatharth Goyal GitHub Streak"
-/>
+**[View current contributions on GitHub](https://github.com/YT-PRO12?tab=overview)**
 
-[View my live GitHub contribution calendar](https://github.com/YT-PRO12?tab=overview)
+*The official contribution calendar is the source of truth for daily activity. The graphic above displays the goal, not a fabricated live streak count.*
 
-*The streak image is provided by a third-party service. If it is unavailable, use the official GitHub calendar above.*
-
-<br><br>
-
-### Commit → Build → Learn → Improve → Repeat
-
-<br>
-
-🎯 **Current Goal: 90 Consecutive Days**
+**Commit → Build → Learn → Improve → Repeat**
 
 </div>
 
