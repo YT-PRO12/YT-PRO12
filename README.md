@@ -380,9 +380,13 @@ Development activity across software projects, DSA practice and engineering work
 <br>
 
 <img
-  src="https://streak-stats.demolab.com?user=YT-PRO12&theme=github-dark-blue&hide_border=true&timezone=Asia%2FKolkata&v=20261012"
+  src="https://streak-stats.demolab.com?user=YT-PRO12&theme=github-dark-blue&hide_border=true&timezone=Asia%2FKolkata"
   alt="Yatharth Goyal GitHub Streak"
 />
+
+[View my live GitHub contribution calendar](https://github.com/YT-PRO12?tab=overview)
+
+*The streak image is provided by a third-party service. If it is unavailable, use the official GitHub calendar above.*
 
 <br><br>
 
