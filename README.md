@@ -515,3 +515,16 @@ yatharth@github:~$ status
 <i>Building stronger engineering skills one project, one problem and one commit at a time.</i>
 
 </div>
+
+---
+
+## 🧭 Profile Maintenance
+
+This profile highlights work that can be explored in public repositories. Project status and capabilities are described in each project's own documentation; automated GitHub activity cards are indicators, not measures of code quality.
+
+- Keep featured repositories focused on maintainable, verifiable work.
+- Prefer reviewed pull requests and tested changes over commit-count targets.
+- Keep project status, deployment claims, and screenshots aligned with the current repository state.
+- Record actual verification results; do not publish planned checks as completed checks.
+
+**Engineering principle:** readable changes, reproducible checks, clear review history, and honest project status.
