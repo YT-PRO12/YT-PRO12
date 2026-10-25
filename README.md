@@ -169,6 +169,22 @@ how **frontend, backend, databases, algorithms and intelligent systems work toge
 
 # 🚀 Featured Projects
 
+## MERN Full Stack Engineering
+
+A structured collection of React projects, Node/Express labs, and MongoDB exercises,
+with **CampusHub**, a campus marketplace demonstrating sessions, ownership checks,
+search, pagination, and guarded listing transitions.
+
+`React` • `Node.js` • `Express` • `MongoDB` • `Mongoose` • `JavaScript`
+
+Includes runnable local demos, component/API/database tests, browser workflows,
+and GitHub Actions verification. CampusHub is a portfolio demo with synthetic data;
+it is not a hosted marketplace.
+
+[Explore the repository and setup guides](https://github.com/YT-PRO12/MERN-Full-Stack-Engineering.)
+
+---
+
 ## 🏥 AegisED
 
 ### Intelligent Emergency Operations & Decision-Support Platform
