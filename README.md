@@ -1,546 +1,103 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg">
+  <img src="assets/profile-banner.svg" width="1200" alt="Yatharth Goyal — full-stack development, applied machine learning, Java and algorithms">
+</picture>
 
-# 👋 Hi, I'm Yatharth Goyal
-
-### ☕ Java Developer • 🚀 Full Stack Development • 🧠 DSA • 🤖 Machine Learning
-
-B.Tech Information Technology student focused on building practical software systems,
-strengthening problem-solving skills, and developing production-oriented applications.
-
-<br>
-
-<a href="https://www.linkedin.com/in/yatharth-goyal-ab0a8b326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yatharth%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/yatharth_goyal/">
-  <img src="https://img.shields.io/badge/LeetCode-yatharth__goyal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="mailto:yatharthgoyal657@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-- ☕ Building strong foundations in **Java, OOP and Software Development**
-- 🧠 Practicing **Data Structures & Algorithms in Java**
-- 🌐 Developing full-stack applications using **React, Node.js and Express**
-- 🗄️ Working with **PostgreSQL and relational database design**
-- 🤖 Building applications using **Machine Learning and Data Science**
-- 🔧 Learning professional **Git, GitHub, branching and pull-request workflows**
-- ☁️ Exploring **AWS, Cloud Computing and System Design**
-- 🎯 Preparing for **Software Engineering and ML-oriented internship opportunities**
-
-I learn best through:
-
-**Understand → Build → Debug → Improve → Repeat**
-
----
-
-# 🧭 Engineering Journey
-
-```text
-Programming Fundamentals
-        ↓
-Java + Object-Oriented Programming
-        ↓
-Data Structures & Algorithms
-        ↓
-Python + Data Analysis
-        ↓
-Machine Learning
-        ↓
-React + JavaScript
-        ↓
-Node.js + Express
-        ↓
-PostgreSQL + REST APIs
-        ↓
-Git + GitHub Engineering Workflows
-        ↓
-Cloud + System Design
-        ↓
-Production-Oriented Software
-```
-
-My focus is gradually moving from learning individual technologies toward understanding
-how **frontend, backend, databases, algorithms and intelligent systems work together.**
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Core Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,python,css,html" />
-
-</div>
-
-<br>
-
-| Language | Primary Use |
-|---|---|
-| ☕ **Java** | DSA, OOP, problem solving and software development |
-| 🟨 **JavaScript** | React, Node.js, Express and full-stack applications |
-| 🐍 **Python** | Machine Learning, Data Science and intelligent systems |
-| 🎨 **CSS** | Responsive interfaces, layouts and styling |
-| 🌐 **HTML** | Semantic web structure and frontend development |
-
----
-
-## 🌐 Full Stack Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,html,css" />
+<p align="center">
+  <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#engineering-toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/yatharth-goyal-ab0a8b326/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://leetcode.com/u/yatharth_goyal/">LeetCode</a> &nbsp; / &nbsp;
+  <a href="mailto:yatharthgoyal657@gmail.com">Email</a>
 </p>
 
-**Frontend**
+I'm **Yatharth**, a B.Tech Information Technology student building web applications, exploring applied machine learning, and practicing algorithms in Java. I like projects where the interface, API, and data model have to work together: allocating a hospital bed, managing a marketplace listing, or explaining a model's prediction.
 
-`React` • `JavaScript` • `HTML` • `CSS` • `Tailwind CSS`
+My current focus is **full-stack engineering, reliable backend workflows, and useful ML applications**. I'm interested in software engineering and applied ML internship opportunities.
 
-**Backend**
+## Selected projects
 
-`Node.js` • `Express.js` • `REST APIs`
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / AegisED</h3>
+<p><strong>Emergency operations &amp; decision support</strong></p>
+<p>Models the workflow from registration to discharge, with doctor and bed allocation, role-based access, audit trails, and human-reviewed ML recommendations.</p>
+<p><code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>FastAPI</code></p>
+<p><strong>Explore:</strong> resource consistency, transactions, and backend authorization.</p>
+<p><a href="https://github.com/YT-PRO12/AegisED">Source &amp; architecture →</a></p>
+<p><sub>Educational engineering demo; ML is not clinically validated.</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / CampusHub + MERN</h3>
+<p><strong>From React fundamentals to a full-stack marketplace</strong></p>
+<p>Seven structured sections connect frontend exercises, backend APIs, and MongoDB labs to CampusHub: sessions, ownership checks, search, pagination, and listing transitions.</p>
+<p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
+<p><strong>Explore:</strong> API/database tests, browser workflows, and GitHub Actions.</p>
+<p><a href="https://github.com/YT-PRO12/MERN-Full-Stack-Engineering./">Source &amp; local demo →</a></p>
+<p><sub>Runnable locally with synthetic listings; not deployed online.</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / Grid Flex</h3>
+<p><strong>Energy scheduling &amp; optimization</strong></p>
+<p>Coordinates production jobs, solar, battery storage, and grid imports with mixed-integer optimization. Compares cost/carbon strategies and independently checks the resulting schedules.</p>
+<p><code>Python</code> <code>SciPy / HiGHS</code> <code>JavaScript</code></p>
+<p><strong>Explore:</strong> mathematical constraints, scenario analysis, and explainable trade-offs.</p>
+<p><a href="https://github.com/YT-PRO12/Grid-Flex">Source &amp; scenarios →</a></p>
+<p><sub>Local prototype using synthetic scenarios; no physical equipment control.</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / EduPredict AI</h3>
+<p><strong>Student performance &amp; early-warning insights</strong></p>
+<p>Connects student assessments and a machine-learning pipeline to an interactive web dashboard for exploring academic risk and intervention-oriented insights.</p>
+<p><code>React</code> <code>FastAPI</code> <code>scikit-learn</code> <code>SQLite</code></p>
+<p><strong>Explore:</strong> model integration, prediction APIs, and data-driven interfaces.</p>
+<p><a href="https://github.com/YT-PRO12/EduPredictAI">Source &amp; setup →</a> · <a href="https://edu-predict-ai-64gq.vercel.app/">Frontend preview</a></p>
+<p><sub>React frontend with a Python prediction API.</sub></p>
+</td>
+</tr>
+</table>
 
-**Concepts**
+**More applied work**
 
-`Client-Server Architecture` • `MVC` • `API Integration` • `State Management`
+- **[FleetGuard AI](https://github.com/YT-PRO12/FleetGuard-AI)** — predictive-maintenance classification with preprocessing pipelines, class-imbalance handling, and a Streamlit interface. Uses the synthetic AI4I benchmark.
+- **[WindCtrl Validator](https://github.com/YT-PRO12/windctrl-validator)** — CSV validation, power-tracking tolerance checks, and engineering reports from synthetic controller observations.
+
+## Engineering toolkit
+
+| Area | Technologies used across my repositories |
+| :--- | :--- |
+| **Languages** | Java · JavaScript · Python · SQL |
+| **Interfaces** | React · HTML · CSS · Tailwind CSS · Vite |
+| **APIs & data** | Node.js · Express · FastAPI · PostgreSQL · MongoDB / Mongoose · SQLite |
+| **ML & analysis** | pandas · NumPy · scikit-learn · Matplotlib · SciPy · Streamlit |
+| **Verification & delivery** | Git · GitHub Actions · pytest · Vitest · Playwright · Docker |
+
+## Foundations I keep building
+
+| Repository | What I'm practicing |
+| :--- | :--- |
+| **[Java DSA](https://github.com/YT-PRO12/DSA-Java-Interview-Prep)** | Patterns, invariants, edge cases, and complexity — from arrays and strings through trees and BSTs. |
+| **[Web foundations](https://github.com/YT-PRO12/HTML-CSS-JavaScript)** | Semantic HTML, responsive CSS, DOM interactions, and JavaScript fundamentals. |
+| **[React projects](https://github.com/YT-PRO12/React-Projects)** | Components, hooks, state, routing, and API integration. |
+| **[Data science & ML](https://github.com/YT-PRO12/Data-Science-ML-Journey)** | Python, data preparation, exploratory analysis, and model evaluation. |
+
+## How I approach the work
+
+- **Understand the rules first.** Write down valid states, ownership, and edge cases before building the interface.
+- **Follow the data.** Trace a request from the screen through validation and storage to the response.
+- **Make changes reviewable.** Keep commits focused, document setup, and add regression coverage for behavior that can break.
+- **Explain the result.** Distinguish a local demo from a deployment, and a model score from real-world validation.
+
+**Currently building:** EvalForge, an assessment and evaluation platform under active development in a private repository. Alongside it, I'm strengthening Java problem-solving, backend reliability, and system-design fundamentals.
 
 ---
 
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<p align="center">
+  <strong>Let's build something useful.</strong><br>
+  Interested in full-stack development, applied ML, and engineering tools.<br><br>
+  <a href="https://www.linkedin.com/in/yatharth-goyal-ab0a8b326/">Connect on LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:yatharthgoyal657@gmail.com">yatharthgoyal657@gmail.com</a>
 </p>
-
-**Primary:** PostgreSQL
-
-**Also Familiar With:** MySQL • MongoDB
-
----
-
-## 📊 Data Science & Machine Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-</p>
-
-**Areas**
-
-`Data Preprocessing` • `EDA` • `Classification` • `Regression` • `Model Evaluation`
-
----
-
-## 🔧 Developer Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman" />
-
-</p>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## MERN Full Stack Engineering
-
-A structured collection of React projects, Node/Express labs, and MongoDB exercises,
-with **CampusHub**, a campus marketplace demonstrating sessions, ownership checks,
-search, pagination, and guarded listing transitions.
-
-`React` • `Node.js` • `Express` • `MongoDB` • `Mongoose` • `JavaScript`
-
-Includes runnable local demos, component/API/database tests, browser workflows,
-and GitHub Actions verification. CampusHub is a portfolio demo with synthetic data;
-it is not a hosted marketplace.
-
-[Explore the repository and setup guides](https://github.com/YT-PRO12/MERN-Full-Stack-Engineering.)
-
----
-
-## 🏥 AegisED
-
-### Intelligent Emergency Operations & Decision-Support Platform
-
-A full-stack emergency department operations platform designed around realistic
-hospital workflows including patient management, emergency queues, doctor assignment,
-bed allocation, treatment progression and discharge.
-
-### Core Workflow
-
-```text
-Patient Registration
-        ↓
-Emergency Queue
-        ↓
-Doctor Assignment
-        ↓
-Bed Assignment
-        ↓
-Treatment
-        ↓
-Completion
-        ↓
-Discharge
-```
-
-### Technology
-
-`React` • `Node.js` • `Express.js` • `PostgreSQL` • `REST APIs`
-
-### Engineering Focus
-
-`Full Stack Development` • `Database Design` • `API Architecture` •
-`Transactions` • `State Management` • `Git Workflows`
-
-<p>
-
-<a href="https://careflow-app.onrender.com">
-  <img src="https://img.shields.io/badge/Live%20Demo-Open%20AegisED-22C55E?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://github.com/YT-PRO12/AegisED">
-  <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## ⚙️ EvalForge
-
-### Assessment Intelligence & Optimization Platform
-
-EvalForge is an advanced software platform focused on building structured,
-reliable and scalable assessment workflows with emphasis on engineering quality,
-evaluation logic and production-oriented system design.
-
-### Engineering Focus
-
-`Full Stack Engineering` • `Backend Architecture` • `Assessment Systems` •
-`System Design` • `Reliability` • `Software Quality`
-
-### Current Status
-
-🚧 **Actively under development**
-
-The project is being developed with emphasis on maintainable architecture,
-reliable evaluation workflows and production-level engineering practices.
-
----
-
-## 🎓 EduPredict AI
-
-### Student Performance Prediction Platform
-
-A machine-learning application designed to analyze academic information and
-generate student-performance predictions through an interactive web interface.
-
-### Technology
-
-`Python` • `Machine Learning` • `Data Science` • `Web Development`
-
-### Focus
-
-`Prediction Systems` • `Data Analysis` • `Model Integration` • `User Experience`
-
-<p>
-
-<a href="https://edu-predict-ai-yat7.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-Open%20EduPredict-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# 🧠 Data Structures & Algorithms
-
-I practice **Data Structures & Algorithms primarily in Java**, with emphasis on
-understanding patterns, complexity and reusable problem-solving techniques.
-
-### Current Roadmap
-
-```text
-Arrays
-   ↓
-Strings
-   ↓
-Hashing
-   ↓
-Two Pointers
-   ↓
-Sliding Window
-   ↓
-Binary Search
-   ↓
-Linked Lists
-   ↓
-Stacks & Queues
-   ↓
-Recursion & Backtracking
-   ↓
-Trees
-   ↓
-Graphs
-   ↓
-Dynamic Programming
-```
-
-### Problem-Solving Process
-
-```text
-Understand Problem
-        ↓
-Identify Pattern
-        ↓
-Design Approach
-        ↓
-Analyze Complexity
-        ↓
-Implement in Java
-        ↓
-Dry Run
-        ↓
-Optimize
-```
-
-My goal is not simply to collect solved problems.
-
-I focus on understanding **why an approach works, when to use it, and how to
-recognize the same pattern in another problem.**
-
-<p>
-
-<a href="https://leetcode.com/u/yatharth_goyal/">
-  <img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://github.com/YT-PRO12/DSA-Java-Interview-Prep">
-  <img src="https://img.shields.io/badge/Java%20DSA-Interview%20Prep-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-| Area | Current Focus |
-|---|---|
-| ☕ **Java** | OOP, problem solving and software fundamentals |
-| 🧠 **DSA** | Interview patterns and algorithmic problem solving |
-| 🌐 **Full Stack** | React, Node.js, Express, PostgreSQL and REST APIs |
-| 🔧 **Software Engineering** | Git, debugging, architecture and clean workflows |
-| 🤖 **AI / ML** | Machine Learning and intelligent application integration |
-| 🏗️ **System Design** | APIs, databases, scalability and architecture fundamentals |
-| ☁️ **Cloud** | AWS and cloud computing fundamentals |
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-### Building consistently. Learning continuously. 🚀
-
-<sub>
-Development activity across software projects, DSA practice and engineering work.
-</sub>
-
-<br><br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=YT-PRO12&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark"
-  height="180"
-  alt="Yatharth Goyal GitHub Stats"
-/>
-
-</div>
-
----
-
-# 🔥 GitHub Contribution Streak
-
-<div align="center">
-
-### 🎯 Road to 90 Consecutive Days
-
-![Road to 90 consecutive days](assets/contribution-streak.svg)
-
-**[View current contributions on GitHub](https://github.com/YT-PRO12?tab=overview)**
-
-*The official contribution calendar is the source of truth for daily activity. The graphic above displays the goal, not a fabricated live streak count.*
-
-**Commit → Build → Learn → Improve → Repeat**
-
-</div>
-
----
-
-# 💻 Language Focus
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,python,css,html" />
-
-</div>
-
-<br>
-
-```text
-Java        ████████████████████  Primary
-JavaScript  ███████████████       Full Stack
-Python      ██████████            ML / Data Science
-CSS         ███████               Frontend
-HTML        ██████                Web Development
-```
-
-<div align="center">
-
-**Java for software development & DSA • JavaScript for full stack • Python for ML**
-
-</div>
-
----
-
-# 🧑‍💻 Developer Console
-
-```bash
-yatharth@github:~$ whoami
-
-> Java Developer
-> Full Stack Developer
-> DSA Problem Solver
-> ML Enthusiast
-
-
-yatharth@github:~$ current-focus
-
-> Building    : EvalForge
-> Improving   : AegisED
-> Practicing  : Java DSA
-> Learning    : System Design + AWS
-
-
-yatharth@github:~$ engineering-mindset
-
-> Understand the problem.
-> Build the solution.
-> Break assumptions.
-> Debug the cause.
-> Improve the design.
-> Ship something useful.
-
-
-yatharth@github:~$ status
-
-> Compiling skills...
-> ███████████████░░░░░
-```
-
----
-
-# 🏆 Progress & Milestones
-
-### 2026
-
-- ✅ Built Data Science and Machine Learning applications
-- ✅ Started structured **Java DSA interview preparation**
-- ✅ Expanded into **React and Full Stack Development**
-- ✅ Built REST APIs using **Node.js and Express**
-- ✅ Started building applications with **PostgreSQL**
-- ✅ Practiced professional **Git branching and pull-request workflows**
-- ✅ Built and deployed full-stack applications
-- ✅ Developed **AegisED** as a major full-stack software project
-- 🔄 Building **EvalForge**
-- 🔄 Strengthening Java and core Computer Science fundamentals
-- 🔄 Learning System Design and Cloud Computing
-- 🔄 Preparing for Software Engineering internships
-
----
-
-# 🎯 Goals
-
-- [ ] Solve **300+ quality DSA problems**
-- [ ] Build a **90-day genuine GitHub contribution streak**
-- [ ] Strengthen Java and Object-Oriented Programming
-- [ ] Master common DSA interview patterns
-- [ ] Strengthen core Computer Science fundamentals
-- [ ] Build production-quality full-stack applications
-- [ ] Strengthen PostgreSQL and database design
-- [ ] Build intelligent ML-integrated software systems
-- [ ] Learn AWS and cloud fundamentals
-- [ ] Strengthen System Design fundamentals
-- [ ] Make meaningful open-source contributions
-- [ ] Secure a strong Software Engineering / ML internship
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yatharth-goyal-ab0a8b326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yatharth%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/yatharth_goyal/">
-  <img src="https://img.shields.io/badge/LeetCode-yatharth__goyal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="mailto:yatharthgoyal657@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yatharthgoyal657%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Learn • Build • Solve • Improve 🚀
-
-<i>Building stronger engineering skills one project, one problem and one commit at a time.</i>
-
-</div>
-
----
-
-## 🧭 Profile Maintenance
-
-This profile highlights work that can be explored in public repositories. Project status and capabilities are described in each project's own documentation; automated GitHub activity cards are indicators, not measures of code quality.
-
-- Keep featured repositories focused on maintainable, verifiable work.
-- Prefer reviewed pull requests and tested changes over commit-count targets.
-- Keep project status, deployment claims, and screenshots aligned with the current repository state.
-- Record actual verification results; do not publish planned checks as completed checks.
-
-**Engineering principle:** readable changes, reproducible checks, clear review history, and honest project status.

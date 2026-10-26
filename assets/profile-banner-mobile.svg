@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="350" viewBox="0 0 720 350" role="img" aria-labelledby="title desc">
+<title id="title">Yatharth Goyal</title><desc id="desc">Full-stack development, applied machine learning, Java and algorithms.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1426"/><stop offset="1" stop-color="#12283a"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#72e7cf"/><stop offset="1" stop-color="#79baff"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a8d9ec" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="720" height="350" rx="16" fill="url(#bg)"/><rect width="720" height="350" rx="16" fill="url(#grid)"/>
+<path d="M40 44H86" stroke="url(#accent)" stroke-width="4"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="104" y="50" fill="#a4b9cf" font-size="16" letter-spacing="3">SOFTWARE / DATA / SYSTEMS</text>
+<text x="36" y="137" fill="#f4f8ff" font-size="70" font-weight="700" letter-spacing="-2">Yatharth Goyal</text>
+<text x="40" y="190" fill="#bacce0" font-size="27">Building the interface.</text>
+<text x="40" y="227" fill="#bacce0" font-size="27">Understanding the system.</text>
+<path d="M40 261H680" stroke="#365168"/>
+<g font-size="19" font-weight="600"><text x="40" y="306" fill="#8df0d8">FULL STACK</text><text x="211" y="306" fill="#a0cbff">APPLIED ML</text><text x="391" y="306" fill="#e7cf95">JAVA + ALGORITHMS</text></g>
+</g></svg>
