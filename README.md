@@ -65,6 +65,12 @@ My current focus is **full-stack engineering, reliable backend workflows, and us
 - **[FleetGuard AI](https://github.com/YT-PRO12/FleetGuard-AI)** — predictive-maintenance classification with preprocessing pipelines, class-imbalance handling, and a Streamlit interface. Uses the synthetic AI4I benchmark.
 - **[WindCtrl Validator](https://github.com/YT-PRO12/windctrl-validator)** — CSV validation, power-tracking tolerance checks, and engineering reports from synthetic controller observations.
 
+## Additional engineering utilities
+
+- **[EngiTest CI](https://github.com/YT-PRO12/engitest-ci)** — numerical engineering contracts, package tests, and reproducible CI artifacts.
+- **[TurbineHealth Monitor](https://github.com/YT-PRO12/turbinehealth-monitor)** — transparent, rule-based checks of synthetic turbine telemetry; not predictive maintenance.
+- **[Data analytics notebook](https://github.com/YT-PRO12/DATA-ANALYTICS-PROJECT)** — exploratory restaurant data analysis with pandas and plots.
+
 ## Engineering toolkit
 
 | Area | Technologies used across my repositories |
