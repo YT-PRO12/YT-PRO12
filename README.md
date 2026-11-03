@@ -6,6 +6,7 @@
 <p align="center">
   <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
   <a href="#engineering-toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="https://drive.google.com/file/d/1pPOzUIJYmg51kNPHuExmy2VBvKdnPOqb/view">Resume PDF</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/yatharth-goyal-ab0a8b326/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="https://leetcode.com/u/yatharth_goyal/">LeetCode</a> &nbsp; / &nbsp;
   <a href="mailto:yatharthgoyal657@gmail.com">Email</a>
@@ -14,6 +15,8 @@
 I'm **Yatharth**, a B.Tech Information Technology student building web applications, exploring applied machine learning, and practicing algorithms in Java. I like projects where the interface, API, and data model have to work together: allocating a hospital bed, managing a marketplace listing, or explaining a model's prediction.
 
 My current focus is **full-stack engineering, reliable backend workflows, and useful ML applications**. I'm interested in software engineering and applied ML internship opportunities.
+
+**[View my latest Software Engineer resume (PDF)](https://drive.google.com/file/d/1pPOzUIJYmg51kNPHuExmy2VBvKdnPOqb/view)** · [Engineering portfolio](https://yatharth-engineering-portfolio.vercel.app/)
 
 ## Selected projects
 
