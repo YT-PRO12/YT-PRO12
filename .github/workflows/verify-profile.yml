@@ -1,0 +1,19 @@
+name: Verify GitHub profile
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  profile:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check profile links
+        run: python scripts/check_profile_readme.py
+      - name: Validate SVG banners
+        run: python scripts/check_profile_assets.py
