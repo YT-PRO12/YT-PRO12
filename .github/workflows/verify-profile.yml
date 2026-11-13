@@ -17,5 +17,7 @@ jobs:
         run: python scripts/check_profile_readme.py
       - name: Validate SVG banners
         run: python scripts/check_profile_assets.py
+      - name: Check accessible SVG labels
+        run: python scripts/check_banner_accessibility.py
       - name: Run profile banner regression tests
         run: python -m unittest discover -s scripts -p 'test_profile_assets_nov11.py'
