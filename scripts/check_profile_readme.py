@@ -16,6 +16,13 @@ def main():
     }
     for label, link in expected.items():
         assert link in content, f"Missing {label} link: {link}"
+    for anchor, heading in (
+        ("#selected-projects", "## Selected projects"),
+        ("#engineering-toolkit", "## Engineering toolkit"),
+    ):
+        assert f'href="{anchor}"' in content, f"Missing navigation: {anchor}"
+        assert heading in content, f"Broken navigation target: {heading}"
+    assert content.count("https://yatharth-engineering-portfolio.vercel.app/resume/Yatharth_Goyal_Resume.pdf") >= 2
     assert 'src="assets/profile-banner.svg"' in content
     assert 'alt="Yatharth Goyal' in content
     print(f"PASS: profile includes {len(expected)} expected links and banner alt text")
